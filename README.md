@@ -26,6 +26,7 @@
 - [第1話　コレーの環](episodes/ep001.md)
 - [第2話　三日のうちに](episodes/ep002.md)
 - [第3話　忘れられた書庫](episodes/ep003.md)
+- [第4話　夜の馬車](episodes/ep004.md)
 <!-- EPISODES:END -->
 
 ---
