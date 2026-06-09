@@ -1,8 +1,8 @@
 <!-- THUMBNAIL -->
-![大魔道使いの娘](assets/thumbnail.png)
+![大魔法使いの娘](assets/thumbnail.png)
 <!-- /THUMBNAIL -->
 
-# 大魔道使いの娘
+# 大魔法使いの娘
 
 **GitHub連載・実験小説**
 
