@@ -32,6 +32,9 @@ article h1::after{content:"";display:block;width:3rem;height:1px;
 article p{margin:0 0 1.35rem;text-align:justify}
 .sep{text-align:center;color:var(--gold);opacity:.6;letter-spacing:1em;
   margin:2.4rem 0 2.4rem;padding-left:1em}
+figure.illust{margin:2.6rem 0}
+figure.illust img{width:100%;border-radius:8px;display:block;
+  box-shadow:0 10px 36px rgba(0,0,0,.5);border:1px solid var(--line)}
 
 .pager{max-width:42rem;margin:1.5rem auto 0;padding:1.3rem 1.4rem;
   display:flex;justify-content:space-between;align-items:center;gap:1rem;
