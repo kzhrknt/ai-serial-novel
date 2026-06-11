@@ -29,6 +29,7 @@
 - [第4話　夜の馬車](episodes/ep004.md)
 - [第5話　名前を呼ぶ練習](episodes/ep005.md)
 - [第6話　外れた力](episodes/ep006.md)
+- [第7話　王都の門](episodes/ep007.md)
 <!-- EPISODES:END -->
 
 ---
