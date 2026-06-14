@@ -32,6 +32,7 @@
 - [第7話　王都の門](episodes/ep007.md)
 - [第8話　大司教セラフィナ](episodes/ep008.md)
 - [第9話　名喰いの影](episodes/ep009.md)
+- [第10話　鐘楼の夜](episodes/ep010.md)
 <!-- EPISODES:END -->
 
 ---
