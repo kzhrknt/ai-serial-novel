@@ -31,6 +31,7 @@
 - [第6話　外れた力](episodes/ep006.md)
 - [第7話　王都の門](episodes/ep007.md)
 - [第8話　大司教セラフィナ](episodes/ep008.md)
+- [第9話　名喰いの影](episodes/ep009.md)
 <!-- EPISODES:END -->
 
 ---
