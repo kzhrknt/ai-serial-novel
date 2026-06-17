@@ -35,6 +35,7 @@
 - [第10話　鐘楼の夜](episodes/ep010.md)
 - [第11話　あるべき場所](episodes/ep011.md)
 - [第12話　呼べない名前](episodes/ep012.md)
+- [第13話　隠れられない](episodes/ep013.md)
 <!-- EPISODES:END -->
 
 ---
