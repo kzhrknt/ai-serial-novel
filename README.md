@@ -37,6 +37,7 @@
 - [第12話　呼べない名前](episodes/ep012.md)
 - [第13話　隠れられない](episodes/ep013.md)
 - [第14話　読める人](episodes/ep014.md)
+- [第15話　外れる](episodes/ep015.md)
 <!-- EPISODES:END -->
 
 ---
