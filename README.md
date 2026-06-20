@@ -38,6 +38,7 @@
 - [第13話　隠れられない](episodes/ep013.md)
 - [第14話　読める人](episodes/ep014.md)
 - [第15話　外れる](episodes/ep015.md)
+- [第16話　つけたまま](episodes/ep016.md)
 <!-- EPISODES:END -->
 
 ---
