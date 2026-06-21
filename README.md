@@ -40,6 +40,7 @@
 - [第15話　外れる](episodes/ep015.md)
 - [第16話　つけたまま](episodes/ep016.md)
 - [第17話　薄明](episodes/ep017.md)
+- [第18話　たしかめる](episodes/ep018.md)
 <!-- EPISODES:END -->
 
 ---
