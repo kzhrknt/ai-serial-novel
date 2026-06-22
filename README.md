@@ -42,6 +42,7 @@
 - [第17話　薄明](episodes/ep017.md)
 - [第18話　たしかめる](episodes/ep018.md)
 - [第19話　呼んでも、奪われる](episodes/ep019.md)
+- [第20話　自分の足で、昇る](episodes/ep020.md)
 <!-- EPISODES:END -->
 
 ---
