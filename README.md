@@ -43,6 +43,7 @@
 - [第18話　たしかめる](episodes/ep018.md)
 - [第19話　呼んでも、奪われる](episodes/ep019.md)
 - [第20話　自分の足で、昇る](episodes/ep020.md)
+- [第21話　逃げてきたんじゃない](episodes/ep021.md)
 <!-- EPISODES:END -->
 
 ---
