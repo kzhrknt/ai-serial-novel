@@ -44,6 +44,7 @@
 - [第19話　呼んでも、奪われる](episodes/ep019.md)
 - [第20話　自分の足で、昇る](episodes/ep020.md)
 - [第21話　逃げてきたんじゃない](episodes/ep021.md)
+- [第22話　落ちる場所で待つ](episodes/ep022.md)
 <!-- EPISODES:END -->
 
 ---
