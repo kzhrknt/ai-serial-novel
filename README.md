@@ -45,6 +45,7 @@
 - [第20話　自分の足で、昇る](episodes/ep020.md)
 - [第21話　逃げてきたんじゃない](episodes/ep021.md)
 - [第22話　落ちる場所で待つ](episodes/ep022.md)
+- [第23話　弱い火を、散らす](episodes/ep023.md)
 <!-- EPISODES:END -->
 
 ---
