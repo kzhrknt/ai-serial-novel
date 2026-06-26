@@ -46,6 +46,7 @@
 - [第21話　逃げてきたんじゃない](episodes/ep021.md)
 - [第22話　落ちる場所で待つ](episodes/ep022.md)
 - [第23話　弱い火を、散らす](episodes/ep023.md)
+- [第24話　広がって、戻る](episodes/ep024.md)
 <!-- EPISODES:END -->
 
 ---
