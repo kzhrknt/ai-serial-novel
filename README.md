@@ -49,6 +49,7 @@
 - [第24話　広がって、戻る](episodes/ep024.md)
 - [第25話　火を、囲んでいた](episodes/ep025.md)
 - [第26話　村ごと、焼かれた](episodes/ep026.md)
+- [第27話　お前の十秒、俺が稼ぐ](episodes/ep027.md)
 <!-- EPISODES:END -->
 
 ---
