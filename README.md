@@ -51,6 +51,7 @@
 - [第26話　村ごと、焼かれた](episodes/ep026.md)
 - [第27話　お前の十秒、俺が稼ぐ](episodes/ep027.md)
 - [第28話　外せば、勝てる](episodes/ep028.md)
+- [第29話　だれかが、いた](episodes/ep029.md)
 <!-- EPISODES:END -->
 
 ---
