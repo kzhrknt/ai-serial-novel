@@ -53,6 +53,7 @@
 - [第28話　外せば、勝てる](episodes/ep028.md)
 - [第29話　だれかが、いた](episodes/ep029.md)
 - [第30話　散ったものを、集める](episodes/ep030.md)
+- [第31話　石が、居場所を教える](episodes/ep031.md)
 <!-- EPISODES:END -->
 
 ---
