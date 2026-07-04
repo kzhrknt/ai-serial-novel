@@ -54,6 +54,7 @@
 - [第29話　だれかが、いた](episodes/ep029.md)
 - [第30話　散ったものを、集める](episodes/ep030.md)
 - [第31話　石が、居場所を教える](episodes/ep031.md)
+- [第32話　どちらにも、渡さない](episodes/ep032.md)
 <!-- EPISODES:END -->
 
 ---
