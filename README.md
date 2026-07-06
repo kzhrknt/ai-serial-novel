@@ -56,6 +56,7 @@
 - [第31話　石が、居場所を教える](episodes/ep031.md)
 - [第32話　どちらにも、渡さない](episodes/ep032.md)
 - [第33話　母から、聞く](episodes/ep033.md)
+- [第34話　母の、いちばん古い罪](episodes/ep034.md)
 <!-- EPISODES:END -->
 
 ---
