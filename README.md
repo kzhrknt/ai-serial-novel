@@ -58,6 +58,7 @@
 - [第33話　母から、聞く](episodes/ep033.md)
 - [第34話　母の、いちばん古い罪](episodes/ep034.md)
 - [第35話　消そうとして、消えない](episodes/ep035.md)
+- [第36話　呼べば、燃えつきる](episodes/ep036.md)
 <!-- EPISODES:END -->
 
 ---
