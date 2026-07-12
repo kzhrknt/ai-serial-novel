@@ -60,6 +60,7 @@
 - [第35話　消そうとして、消えない](episodes/ep035.md)
 - [第36話　呼べば、燃えつきる](episodes/ep036.md)
 - [第37話　わたしは、器じゃない](episodes/ep037.md)
+- [第38話　運ばれて、いかない](episodes/ep038.md)
 <!-- EPISODES:END -->
 
 ---
