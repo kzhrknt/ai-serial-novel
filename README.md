@@ -63,6 +63,7 @@
 - [第38話　運ばれて、いかない](episodes/ep038.md)
 - [第39話　もう、隠さないで](episodes/ep039.md)
 - [第40話　集めなくても、そろう](episodes/ep040.md)
+- [第41話　戻れない場所へ](episodes/ep041.md)
 <!-- EPISODES:END -->
 
 ---
