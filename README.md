@@ -64,6 +64,7 @@
 - [第39話　もう、隠さないで](episodes/ep039.md)
 - [第40話　集めなくても、そろう](episodes/ep040.md)
 - [第41話　戻れない場所へ](episodes/ep041.md)
+- [第42話　楽に、なりたかった](episodes/ep042.md)
 <!-- EPISODES:END -->
 
 ---
