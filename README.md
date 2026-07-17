@@ -65,6 +65,7 @@
 - [第40話　集めなくても、そろう](episodes/ep040.md)
 - [第41話　戻れない場所へ](episodes/ep041.md)
 - [第42話　楽に、なりたかった](episodes/ep042.md)
+- [第43話　わたしの名前を、呼んで](episodes/ep043.md)
 <!-- EPISODES:END -->
 
 ---
