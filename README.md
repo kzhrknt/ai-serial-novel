@@ -68,6 +68,7 @@
 - [第43話　わたしの名前を、呼んで](episodes/ep043.md)
 - [第44話　七本でこわれる](episodes/ep044.md)
 - [第45話　線の下を、見た](episodes/ep045.md)
+- [第46話　首飾りを外した日](episodes/ep046.md)
 <!-- EPISODES:END -->
 
 ---
