@@ -70,6 +70,7 @@
 - [第45話　線の下を、見た](episodes/ep045.md)
 - [第46話　首飾りを外した日](episodes/ep046.md)
 - [第47話　喰えなかった一行](episodes/ep047.md)
+- [第48話　あなたを、しまわない](episodes/ep048.md)
 <!-- EPISODES:END -->
 
 ---
